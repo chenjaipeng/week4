@@ -15,15 +15,18 @@
 ![image](https://upload-images.jianshu.io/upload_images/5511258-a399d6e751955592.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 #### 图示值得传播的思想  
 传播的思想，在这些演讲中，我们想要找到一种数学结构来揭示视频背后的思想，这些演讲是如何联系在一起的。“[文化基因集合]()”就是让电脑用自然语言处理算法，去逐行阅读文本，从中提取关键思想，这些关键思想后会形成某一形式的思想数学结构。
-这些全球性的演讲是联系在一起的。就像我们的这门课，每个星期老师都会给我们看视频，讲解，最后我们要找到他们之间的联系，用一个大的关系网，打他们都联系起来。
+这些全球性的演讲是联系在一起的。就像我们的这门课，每个星期老师都会给我们看视频，讲解，最后我们要找到他们之间的联系，用一个大的关系网，打他们都联系起来。  
+
 ***  
 
 **关键词语**  
 *过滤气泡*   
 *个人信息泡*  
 *数据人文主义*   
-*科技联系*  
+*科技联系*
+  
 ***  
+
 **参考视频**  
 当心网上“过滤气泡”Filter bubble<https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn>  
 如何在数据中找到自己Data humanism<http://www.tingvoa.com/html/20180901/Giorgia-Lupi-How-we-can-find-ourselves-in-data.html>  
